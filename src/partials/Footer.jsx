@@ -58,7 +58,7 @@ function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documentation</Link>
+                <div className="text-sm text-gray-600 mr-4"><a className="text-blue-600 hover:underline" href="https://textverse.gitbook.io/" target="_blank">Documentation</a></div>
               </li>
               <li className="mb-2">
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tutorials & Guides</Link>
